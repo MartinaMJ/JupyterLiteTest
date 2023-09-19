@@ -39,3 +39,4 @@ plotly
 bqplot
 bokeh
 matplotlib
+skimage
