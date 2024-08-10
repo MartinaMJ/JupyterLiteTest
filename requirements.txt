@@ -40,4 +40,3 @@ bqplot
 bokeh
 matplotlib
 scikit-image
-PIL
